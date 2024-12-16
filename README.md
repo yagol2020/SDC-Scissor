@@ -3,6 +3,8 @@
 > The server retrieves the path of a JSON file containing vehicle trajectories from the message and returns the
 > calculated SDC-Features through Socket.
 
+> Original repository is [sdc-scissor](https://github.com/christianbirchler-org/sdc-scissor)
+
 # SDC-Scissor
 
 ```{code-block} text
